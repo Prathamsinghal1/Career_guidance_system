@@ -6,5 +6,9 @@ A career guidance system is a valuable tool designed to assist individuals in ma
 ## Related-Screenshots
 
 ![""](pics/img1.png)
+
+
 ![""](pics/img2.png)
+
+
 ![""](pics/img3.png)
